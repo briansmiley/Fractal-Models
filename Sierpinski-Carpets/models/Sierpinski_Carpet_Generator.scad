@@ -3,7 +3,7 @@ side = 100;
 h = 2;
 
 //level of fractal recursion
-level = 5;
+level = 3;
 
 //set extrude to true to render the carpet in 3D with a height of h (otherwise renders a 2d sheet that can be exported to DXF (displays with a false thickness of 1), which is faster and probably what you want)
 extrude = false;
