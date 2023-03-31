@@ -1,7 +1,7 @@
 
 l = 10;
 //Cut Levels (stable up to 4)
-T = 1;
+T = 3;
 difference(){
   cube(l, center = true);
   cutz();
