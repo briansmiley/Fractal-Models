@@ -1,10 +1,10 @@
-//Reliably renders up to a level 6 carpet in 2d, can extrude to 3d for stl creation with less reliability
+//Reliably renders up to a level 7 carpet in 2d, can extrude to 3d for stl creation but it gets a little slow at level 5 and up. Don't recomment trying to manipulate the view much at all once a large one is rendered
 
 side = 100;
 h = 2;
 
 //level of fractal recursion
-level = 6;
+level = 3;
 
 //set extrude to true to render the carpet in 3D with a height of h (otherwise renders a 2d sheet that can be exported to DXF (displays with a false thickness of 1), which is faster and probably what you want)
 extrude = false;
