@@ -4,7 +4,7 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 
  OpenSCAD can technically preview the level 5 sponge with not very long a delay, but I have yet to find out how much time it would take for it to render/produce an STL of it. Level 4 took ~65 minutes to render into an STL-able model in OpenSCAD. I managed to create a level 5 in Solidworks by slow piecemeal patterning, but am not sure where that model went.
 
-[more images will go here]
+(more images available in /*/images directories)
 
 ## Models
 
