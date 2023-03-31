@@ -9,14 +9,16 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 ## Models
 
 ![Menger sponge level 5 model](./Menger-Sponges/images/Menger5.jpeg)
-*Render of a Level 5 Menger Sponge; the .sldprt and .stl files for it were difficult to generate and have been lost :(*
+*Render of a Level 5 Menger Sponge; I have the STL which is too large for github, but available from my [GrabCad](https://grabcad.com/library/menger-sponges-1)*
 
 
 ![Sierpinski Carpet level 6 model](./Sierpinski-Carpets/images/Sierpinski_Carpet_6.png)
 *Render of a level 6 Sierpinski Carpet*
 
 ![Sierpinski Carpet level 7 in openSCAD](./Sierpinski-Carpets/images/scadSierpinski7.png)
-*Render of a level 7 Sierpinski Carpet in OpenScad (this model has ~300,000 holes and the STL of the 3d model is 300MB)*
+*Render of a level 7 Sierpinski Carpet in OpenScad (this model has ~300,000 holes and the STL of the [3d model](https://grabcad.com/library/sierpinski-carpet-fractals-1) is 300MB)*
+
+I managed to render a level 8 carpet in OpenSCAD, but even the 2D DXF is over 500MB which is too large even for GrabCAD. Available upon request.
 
 ## Execution
 
