@@ -15,6 +15,9 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 ![Sierpinski Carpet level 6 model](./Sierpinski-Carpets/images/Sierpinski_Carpet_6.png)
 *Render of a level 6 Sierpinski Carpet*
 
+![Sierpinski Carpet level 7 in openSCAD](./Sierpinski-Carpets/images/scadSierpinski7.png)
+*Render of a level 7 Sierpinski Carpet in OpenScad (this model has ~300,000 holes and the STL of the 3d model is 300MB)*
+
 ## Execution
 
 ![Menger sponge levels 2,3, and 4 Print](./Menger-Sponges/images/MengerPrints2_3_4.jpg)
