@@ -11,6 +11,7 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 ## Models
 
 ![Menger sponge level 5 model](./Menger-Sponges/images/Menger5.jpeg)
+
 *Render of a Level 5 Menger Sponge; I have the STL which is too large for github, but available from my [GrabCad](https://grabcad.com/library/menger-sponges-1)*
 
 
