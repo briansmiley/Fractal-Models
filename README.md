@@ -1,10 +1,8 @@
 # Square Fractals
 
-My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (inspired by  [Stand-up Maths](https://www.youtube.com/watch?v=8pj8_zjelDo)) and related [Sierpiński Carpets](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet). Including STLs of each successuflly rendered model, Solidworks drawings and OpenSCAD code which can successfully render up to a level 4 sponge. Also DXF drawings of the 2D carpets.
+My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (inspired by  [Stand-up Maths](https://www.youtube.com/watch?v=8pj8_zjelDo)) and related [Sierpiński Carpets](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet). Including STLs of each successuflly rendered model, Solidworks drawings and OpenSCAD code which can successfully render up to a level 4 sponge. Also included DXF and SVG drawings of the 2D carpets.
 
- OpenSCAD can technically preview the level 5 sponge with not very long a delay, but I have yet to find out how much time it would take for it to render/produce an STL of it. Level 4 took ~65 minutes to render into an STL-able model in OpenSCAD. I managed to create a level 5 in Solidworks by slow piecemeal patterning, but am not sure where that model went.
-
-
+ OpenSCAD can technically preview the level 5 sponge with not very long a delay, but I have yet to find out how much time it would take for it to render/produce an STL of it. Level 4 took ~65 minutes to render into an STL-able model in OpenSCAD. I managed to create a level 5 in Solidworks by slow piecemeal patterning, but am not sure where that model went. The STL of that sponge is too large for GitHub but can be found on my [GrabCad](https://grabcad.com/library/menger-sponges-1).
 
 (more images available in /*/images directories)
 
@@ -12,16 +10,16 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 
 ![Menger sponge level 5 model](./Menger-Sponges/images/Menger5.jpeg)
 
-*Render of a Level 5 Menger Sponge; I have the STL which is too large for github, but available from my [GrabCad](https://grabcad.com/library/menger-sponges-1)*
+*Render of a Level 5 Menger Sponge*
 
 
 ![Sierpinski Carpet level 6 model](./Sierpinski-Carpets/images/Sierpinski_Carpet_6.png)
 *Render of a level 6 Sierpinski Carpet*
 
-![Sierpinski Carpet level 7 in openSCAD](./Sierpinski-Carpets/images/scadSierpinski7.png)
+![Sierpinski Carpet level 7 in openSCAD viewport](./Sierpinski-Carpets/images/scadSierpinski7.png)
 *Render of a level 7 Sierpinski Carpet in OpenScad (this model has ~300,000 holes and the STL of the [3d model](https://grabcad.com/library/sierpinski-carpet-fractals-1) is 300MB)*
 
-I managed to render a level 8 carpet in OpenSCAD, but even the 2D DXF is over 500MB which is too large even for GrabCAD. Available upon request.
+I managed to render a level 8 carpet in OpenSCAD, but even the 2D DXF is over 500MB which is too large even for GrabCAD. The SVG is a more modest 180MB but still too large for Github, and GrabCAD doesn't take that file format. Available upon request.
 
 ## Execution
 
