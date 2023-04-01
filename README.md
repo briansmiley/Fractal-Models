@@ -4,6 +4,8 @@ My models of [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (insp
 
  OpenSCAD can technically preview the level 5 sponge with not very long a delay, but I have yet to find out how much time it would take for it to render/produce an STL of it. Level 4 took ~65 minutes to render into an STL-able model in OpenSCAD. I managed to create a level 5 in Solidworks by slow piecemeal patterning, but am not sure where that model went.
 
+
+
 (more images available in /*/images directories)
 
 ## Models
@@ -25,3 +27,6 @@ I managed to render a level 8 carpet in OpenSCAD, but even the 2D DXF is over 50
 ![Menger sponge levels 2,3, and 4 Print](./Menger-Sponges/images/MengerPrints2_3_4.jpg)
 
 ![Sierpinski Carpet level 5 Lasercut](./Sierpinski-Carpets/images/cutout.jpg)
+
+
+ Note: If attempting to view the largest Carpet images, the best way is probably to open the .svg file in e.g. Inkscape, and set display mode to Outline. I changed the stroke width from OpenSCAD's default export setting of .5 so that they should be visible, but the easiest way to be able to zoom in on arbitrarily fine detail is to display without stroke widths at all.
