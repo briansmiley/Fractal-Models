@@ -5,7 +5,7 @@ origin = [0,0];
 side = 100;
 
 //recursion level
-level = 4;
+level = 6;
 
 //rotates and centers the triangle about the origin
 center = true;
@@ -51,6 +51,11 @@ module rend(){
     else{
         create(level, side, center);
     }
+}
+
+module star (){
+    rend();
+    rotate([0,0,180])rend();
 }
 
 rend();
