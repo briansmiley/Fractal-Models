@@ -5,7 +5,7 @@ origin = [0,0];
 side = 100;
 
 //recursion level
-level = 6;
+level = 5;
 
 //rotates and centers the triangle about the origin
 center = true;
@@ -13,6 +13,18 @@ center = true;
 //choose whether to extrude to a 3d shape
 extrude = false;
 thickness = 1;
+
+//Render a triangle
+rend();
+
+//Render two triangles superimposed into a star
+//star();
+
+//Render [x] stars rotated evenly into a sculpture thing
+//star_planes(5);
+
+
+
 
 //places a triangle of side length s at point o
 module triangle(o, s){
@@ -44,6 +56,7 @@ module create(l,s,cent){
     }
 }
 
+//renders a sierpinski triangle of level l
 module rend(){
     if (extrude){
         linear_extrude(thickness)create(level, side, center);
@@ -53,9 +66,17 @@ module rend(){
     }
 }
 
+//renders two sierpinski triangles rotated 90 degrees and superimposed
 module star (){
     rend();
     rotate([0,0,180])rend();
 }
 
-rend();
+//multi-star sculpture made of x evenly angularly spaced stars
+module star_planes(x){
+    rotate([90,0,0]){
+        for (i = [0 : 180/x : 180]) {
+        rotate([0,i,0])star();
+        }
+    }
+}
