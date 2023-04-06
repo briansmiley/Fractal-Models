@@ -1,4 +1,4 @@
-# Square Fractals
+# Parametrizable Fractals
 
 My models of some simple fractal geometries. Currently featuring [Sierpinski Tetrahedra](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle#Analogues_in_higher_dimensions), [Menger Sponges](https://en.wikipedia.org/wiki/Menger_sponge) (inspired by  [Stand-up Maths](https://www.youtube.com/watch?v=8pj8_zjelDo)) and related [Sierpiński Carpets](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet). Including STLs of each successuflly rendered model, Solidworks drawings and OpenSCAD code which can successfully render up to a level 4 sponge. Also included DXF and SVG drawings of the 2D carpets.
 
