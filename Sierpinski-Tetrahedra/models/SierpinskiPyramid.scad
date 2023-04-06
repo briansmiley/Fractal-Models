@@ -4,12 +4,12 @@ origin = [0,0,0];
 side = 100;
 
 //setting printable to true makes the subpyramids overlap very slightly for a contiguous model; doesnt seem to actually enable a full render yet
-printable = true;
+printable = false;
 //corner overlap sets the proportion of side length by which the tips will overlap for printability/contiguousness
-corner_overlap = .1;
+corner_overlap = .05;
 
 //choose levels of recursion
-level = 1;
+level = 4;
 
 
 //create a tetrahedron of side length [side] with corner at [or]

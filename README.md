@@ -4,6 +4,8 @@ My models of some simple fractal geometries. Currently featuring [Sierpinski Tet
 
  OpenSCAD can technically preview the level 5 sponge with not very long a delay, but I have yet to find out how much time it would take for it to render/produce an STL of it. Level 4 took ~65 minutes to render into an STL-able model in OpenSCAD. I managed to create a level 5 in Solidworks by slow piecemeal patterning, but am not sure where that model went. The STL of that sponge is too large for GitHub but can be found on my [GrabCad](https://grabcad.com/library/menger-sponges-1).
 
+I included a setting in the Sierpinski Tetrahedron generator to overlap the constituent subpyramids slightly for printability. I don't know how much it helps and am haven't totally worked out the math to make the overlap more elegant, but those STLs are in the printable_overlap folder.
+
 (more images available in /*/images directories)
 
 ## Models
