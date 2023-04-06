@@ -13,7 +13,11 @@ I included a setting in the Sierpinski Tetrahedron generator to overlap the cons
 ![Menger sponge level 5 model](./Menger-Sponges/images/Menger5.jpeg)
 
 *Render of a Level 5 Menger Sponge*
+ 
 
+https://user-images.githubusercontent.com/34353764/230503020-31cf2c3e-b442-4db9-b8f9-a17a1b1cec85.mp4
+
+*Sierpinski Pyramid level 7 Render*
 
 ![Sierpinski Carpet level 6 model](./Sierpinski-Carpets/images/Sierpinski_Carpet_6.png)
 *Render of a level 6 Sierpinski Carpet*
