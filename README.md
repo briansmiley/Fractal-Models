@@ -14,8 +14,7 @@ I included a setting in the Sierpinski Tetrahedron generator to overlap the cons
 
 *Render of a Level 5 Menger Sponge*
  
-
-https://user-images.githubusercontent.com/34353764/230503020-31cf2c3e-b442-4db9-b8f9-a17a1b1cec85.mp4
+https://user-images.githubusercontent.com/34353764/230503231-a5c696ab-7e8e-4dfd-8586-d0854dda1c54.mp4
 
 *Sierpinski Pyramid level 7 Render*
 
