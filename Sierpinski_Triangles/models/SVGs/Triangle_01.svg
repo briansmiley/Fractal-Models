@@ -6,5 +6,5 @@
 M -25,-14.4338 L -50,28.8675 L 0,28.8675 z
 M 0,-57.735 L -25,-14.4338 L 25,-14.4338 z
 M 25,-14.4338 L 0,28.8675 L 50,28.8675 z
-" stroke="black" fill="lightgray" stroke-width="0.5"/>
+" stroke="black" fill="lightgray" stroke-width=".005"/>
 </svg>

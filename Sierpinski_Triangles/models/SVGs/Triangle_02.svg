@@ -12,5 +12,5 @@ M 12.5,7.21688 L 0,28.8675 L 25,28.8675 z
 M 12.5,-36.0844 L 0,-14.4338 L 25,-14.4338 z
 M 25,-14.4338 L 12.5,7.21688 L 37.5,7.21688 z
 M 37.5,7.21688 L 25,28.8675 L 50,28.8675 z
-" stroke="black" fill="lightgray" stroke-width="0.5"/>
+" stroke="black" fill="lightgray" stroke-width=".005"/>
 </svg>
